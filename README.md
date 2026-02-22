@@ -9,7 +9,7 @@ The goal is to evaluate the efficacy, accuracy, and cost-efficiency of AI tools 
 * **Target Repository:** [KhugaLabs/khugabash-smartcontract](https://github.com/KhugaLabs/khugabash-smartcontract)
 * **Analyzed Commit:** `afb2c4a8d2cec20c79d477ec3fdc004707f69478`
 * **Manual Audit Report:** [View Full PDF Report](https://github.com/Al-Qa-qa/audits/blob/main/Solo/khuga-Labs-security-review.pdf)
-
+* **Zellic V12 report:** [V12 Scanning Report](https://github.com/Al-Qa-qa/kugabash-v12-scan/blob/main/khugabash_smartcontract_findings_2026-02-22-findings-v12.pdf)
 ---
 
 ## 📊 Comparison Summary
