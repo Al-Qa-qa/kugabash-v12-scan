@@ -18,9 +18,9 @@ The manual audit covered approximately **367 nSLOC** (measured via `solidity-cod
 
 | Metric | Manual Audit (Al-Qa'qa') | Zellic V12 AI |
 | --- | --- | --- |
-| **High Severity** | 2 | 1* |
+| **High Severity** | 2 | 0 |
 | **Medium Severity** | 2 | 1 |
-| **Low Severity** | 5 (incl. mitigation review) | 1 |
+| **Low Severity** | 5 (incl. mitigation review) | 2 |
 | **False Positives** | 0 | 0.5 (Informational) |
 | **Time Spent** | ~2 Days | ~40 Minutes |
 | **Cost** | Professional Auditor Rate | **$2.74** |
